@@ -5,13 +5,14 @@
 - 🤖 Enthusiastic about sensor technology and embedded systems
 - 🔍 Exploring areas like machine learning and smart robotics
 
-##🤝 Connect with Me
--📫 Email: **mobashira1103@gmail.com**
--📘 University Page: Digital University
+
+
   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+-📫 Email: **mobashira1103@gmail.com**
+-📘 University Page: Digital University
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
