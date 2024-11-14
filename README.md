@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  📫 How to reach me: <a href="mailto:mobashira1103@gmail.com">mobashira1103@gmail.com</a>
+  📫 How to reach me: <a href="mailto:mobashira1103@gmail.com">mobashira1103@gmail.com</a><br>
+  📘 University Page: <a href="https://www.facebook.com/digital.university.bd" target="_blank">Digital University</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
